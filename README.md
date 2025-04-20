@@ -35,7 +35,7 @@ VITE_WEATHER_API_KEY=your_api_key_here
 ```
 npm run dev
 ```
-## About This Project
+### About This Project
 
 I built this weather app to practice working with APIs and improve my frontend development skills using React.
 
