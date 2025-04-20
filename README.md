@@ -2,7 +2,7 @@
 
 This project is a React application that allows users to get current weather information by entering a city name. The app supports both real-time API data and predefined static weather data for popular cities.
 
-![Weather App](./screenshot.png)
+![Weather App](src/assets/Screenshot.png)
 
 ## Features
 
